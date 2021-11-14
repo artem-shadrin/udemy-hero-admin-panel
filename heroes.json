@@ -1,0 +1,43 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": "4b5de361-2859-4e16-ade2-9b5cdea62ecf",
+      "name": "Кекс",
+      "description": "Второй герой в рейтинге!",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "description": "Все"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "description": "Огонь"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "description": "Вода"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "description": "Ветер"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "description": "Земля"
+    }
+  ]
+}
