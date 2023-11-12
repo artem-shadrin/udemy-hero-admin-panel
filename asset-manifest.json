@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/udemy-hero-admin-panel/static/css/main.7f84f124.css",
+    "main.js": "/udemy-hero-admin-panel/static/js/main.a5378a4d.js",
+    "static/media/hero_bg.jpg": "/udemy-hero-admin-panel/static/media/hero_bg.0540b794b0424b67d780.jpg",
+    "index.html": "/udemy-hero-admin-panel/index.html",
+    "main.7f84f124.css.map": "/udemy-hero-admin-panel/static/css/main.7f84f124.css.map",
+    "main.a5378a4d.js.map": "/udemy-hero-admin-panel/static/js/main.a5378a4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f84f124.css",
+    "static/js/main.a5378a4d.js"
+  ]
+}
